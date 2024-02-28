@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Green Star Hotel**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Software Engineering at Bahirdar University**
 
 - 💬 Ask me about **Saas,Tailwind css,Javascript,React Js**
 
