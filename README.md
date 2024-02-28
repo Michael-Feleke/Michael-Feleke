@@ -1,3 +1,4 @@
+<img src="https://img.freepik.com/free-vector/gradient-business-linkedin-banner_23-2150091566.jpg?w=1060&t=st=1709150941~exp=1709151541~hmac=9e8b0cd04e6d72acefb0a711d4bd34523bf28c314c851c5d7175ad97313573c7" style="width: 100%; height: auto;">
 <h1 align="center">Hi 👋, I'm Michael Feleke</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
