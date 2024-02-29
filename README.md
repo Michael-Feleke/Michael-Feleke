@@ -4,8 +4,6 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 
-- 🔭 I’m currently working on **Green Star Hotel**
-
 - 🌱 I’m currently learning **Software Engineering at Bahirdar University**
 
 - 💬 Ask me about **Saas,Tailwind css,Javascript,React Js**
