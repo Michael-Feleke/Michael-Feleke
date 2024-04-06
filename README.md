@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/7bed9f6b7163e87267d76e63c2d70cceb926a40864c089c240ab1dc70822101c/68747470733a2f2f72696368657374736f66742e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031392f30342f7765622d646576656c6f706d656e742d62616e6e65722e6a7067" style="width: 100%; height: auto;">
+<img src="./banner.jpg" style="width: 100%; height: auto;">
 <h1 align="center">Hi 👋, I'm Michael Feleke</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
