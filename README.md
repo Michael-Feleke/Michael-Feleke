@@ -1,4 +1,4 @@
-<img src="./michael-banner.jpg" style="width: 100%; height: auto;">
+<img src="./michael-banner.png" style="width: 100%; height: auto;">
 <h1 align="center">Hi 👋, I'm Michael Feleke</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
