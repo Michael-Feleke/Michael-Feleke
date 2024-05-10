@@ -12,7 +12,7 @@
 
 
   
-- 🌐 Connect with me 👉 <a href="https://linkedin.com/in/https://www.linkedin.com/in/michael-feleke-01354a275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michael-feleke" height="20" width="30" /></a>
+- 🌐 Connect with me 👉 <a href="https://linkedin.com/in/https://www.linkedin.com/in/michael-feleke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michael-feleke" height="20" width="30" /></a>
 
 
 
