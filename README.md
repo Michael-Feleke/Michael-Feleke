@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Software Engineering at Bahirdar University**
 
-- 💬 Ask me about **Saas,Tailwind css,Javascript,React Js**
-
 - 📫 How to reach me **felekemichael999@gmail.com**
 
 
