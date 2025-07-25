@@ -1,13 +1,11 @@
 <img src="./michael-banner.png" style="width: 100%; height: auto;">
 <h1 align="center">Hi 👋, I'm Michael Feleke</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h3 align="center">A dedicated full-stack developer from Ethiopia</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
+- 🎓 I have studied and completed **Software Engineering at Bahir Dar University**, where I was honored as the **Best Project Winner**.
 
-- 🌱 I’m currently learning **Software Engineering at Bahirdar University**
-
-- 📫 How to reach me **felekemichael999@gmail.com**
-
+- 📫 You can reach me at **felekemichael999@gmail.com**
 
   
 - 🌐 Connect with me 👉 <a href="https://www.linkedin.com/in/michael-feleke/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michael-feleke" height="20" width="30" /></a>
