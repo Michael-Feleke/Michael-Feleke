@@ -1,9 +1,11 @@
 <img src="./michael-banner.png" style="width: 100%; height: auto;">
 <h1 align="center">Hi 👋, I'm Michael Feleke</h1>
-<h3 align="center">A full-stack developer from Ethiopia</h3>
+<h3 align="center">A dedicated full-stack developer from Ethiopia</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 - 🎓 I have studied and completed **Software Engineering at Bahir Dar University**, where I was honored as the **Best Project Winner**.
+
+- 💼 I have hands-on experience working as a **freelancer on Upwork**, delivering real-world projects to international clients.
 
 - 📫 You can reach me at **felekemichael999@gmail.com**
 
